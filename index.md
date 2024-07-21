@@ -9,6 +9,11 @@ description: wmServer is a lightweight, portable HTTP server for Windows with PH
 
 wmServer is designed to streamline your development process with a fast and lightweight HTTP server that runs seamlessly on Windows. Ideal for developers, testers, and anyone in need of a portable and easy-to-use server solution, wmServer offers a robust set of features without the complexity.
 
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+  <a href="https://github.com/yourusername/wmServer/archive/refs/heads/main.zip" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
+  <a href="https://github.com/yourusername/wmServer" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Collaborate</a>
+</div>
+
 ### Why Choose wmServer?
 
 - **Lightweight and Fast**  
@@ -34,8 +39,7 @@ wmServer is designed to streamline your development process with a fast and ligh
 
 wmServer is open-source and available on GitHub. We welcome contributions from the community to help improve and enhance the server. Feel free to fork the repository, contribute, or simply explore the code.
 
-- **GitHub Repository**: [wmServer on GitHub](https://github.com/yourusername/wmServer)
-- **Download ZIP**: [Download wmServer ZIP](https://github.com/yourusername/wmServer/archive/refs/heads/main.zip)
+[Contribute to Repository](https://github.com/yourusername/wmServer)
 
 ### Getting Started
 
